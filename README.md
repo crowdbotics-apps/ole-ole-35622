@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [react-native-chat](modules/chat)
 - [react-native-login](modules/login)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
